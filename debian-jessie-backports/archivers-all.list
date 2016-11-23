@@ -1,0 +1,7 @@
+[utils]: p7zip
+[utils]: unrar-free
+[utils]: unzip
+[utils]: zip
+[utils/non-free]: p7zip-rar?(p7zip)
+[utils/non-free]: rar
+[utils/non-free]: unrar

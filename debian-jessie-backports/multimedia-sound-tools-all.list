@@ -1,0 +1,8 @@
+[sound]: flac
+[sound]: lame
+[sound]: opus-tools
+[sound]: speex
+[sound]: twolame
+[sound]: vorbis-tools
+
+[utils]: sndfile-programs

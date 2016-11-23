@@ -1,0 +1,15 @@
+[admin]: hdparm
+[admin]: iotop
+
+[editors]: emacs24
+
+[gnome]: zenity
+
+[localization]: util-linux-locales
+
+[misc]: dialog
+
+[utils]: htop
+[utils]: ltrace
+[utils]: pv
+[utils]: strace

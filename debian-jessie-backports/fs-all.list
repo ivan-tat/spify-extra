@@ -1,0 +1,10 @@
+[admin]: f2fs-tools
+
+[gnome]: gvfs-backends
+[gnome]: gvfs-fuse?(fuse)
+
+[otherosfs]: exfat-fuse?(fuse)
+[otherosfs]: exfat-utils
+
+[utils]: fuse
+[utils]: fuse-zip?(fuse)

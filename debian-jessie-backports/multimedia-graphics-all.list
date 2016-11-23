@@ -1,0 +1,12 @@
+[graphics]: blender
+[graphics]: dia
+[graphics]: inkscape
+[graphics]: gimp-data-extras     ?(gimp)
+[graphics]: gimp-dcraw           ?(gimp)
+[graphics]: gimp-gap             ?(gimp)
+[graphics]: gimp-gluas           ?(gimp)
+[graphics]: gimp-gmic            ?(gimp)
+[graphics]: gimp-lensfun         ?(gimp)
+[graphics]: gimp-plugin-registry ?(gimp)
+[graphics]: gimp-texturize       ?(gimp)
+[graphics]: graphicsmagick-imagemagick-compat

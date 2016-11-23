@@ -1,0 +1,4 @@
+[web]: chromium
+[web]: chromium-inspector?(chromium)
+
+[localization]: chromium-l10n?(chromium)

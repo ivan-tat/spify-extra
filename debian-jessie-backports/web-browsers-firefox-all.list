@@ -1,0 +1,19 @@
+[web]: xul-ext-adblock-plus                       ?(firefox-esr)
+[web]: xul-ext-adblock-plus-element-hiding-helper ?(firefox-esr)
+[web]: xul-ext-all-in-one-sidebar                 ?(firefox-esr)
+[web]: xul-ext-dom-inspector                      ?(firefox-esr)
+[web]: xul-ext-downthemall                        ?(firefox-esr)
+[web]: xul-ext-noscript                           ? (firefox-esr)
+
+# Firefox extensions
+#
+# [+] AdBlock Plus -- xul
+# [+] Elements Hiding Helper for AdBlock Plus -- xul
+# [+] NoScript -- xul
+# [=] Ghostery
+# [+] All-in-One sidebar -- xul
+# [+] DOM inspector -- xul
+# [+] DownThemAll! -- xul
+# [=] Mozilla Active Format
+# [=] SaveFrom.Net helper
+# [=] Video DownloadHelper

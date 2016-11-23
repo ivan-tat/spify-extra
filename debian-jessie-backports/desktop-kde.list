@@ -1,0 +1,11 @@
+[gnome]: gtk2-engines-qtcurve:(kde):(auto) # [kde]: qtcurve
+
+[kde]: kde-config-gtk-style:(kde)
+[kde]: kde-config-gtk-style-preview:(kde)
+[kde]: kde-style-qtcurve:(kde):(auto)      # [kde]: qtcurve
+[kde]: kwin-style-qtcurve:(kde):(auto)     # [kde]: qtcurve
+[kde]: qtcurve:(kde)
+
+[localization]: qtcurve-l10n:(kde):(auto)  # [kde]: qtcurve
+
+[metapackages]: kde-full:(kde)

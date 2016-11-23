@@ -1,0 +1,4 @@
+[admin]: sudo
+[admin]: gksu?(sudo):(xfce)
+
+[kde]: kdesudo?(sudo):(kde)

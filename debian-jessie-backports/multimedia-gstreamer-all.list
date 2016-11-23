@@ -1,0 +1,45 @@
+[gnome]: gstreamer0.10-gnonlin
+[gnome]: gstreamer1.0-gnonlin
+
+[kde]: gstreamer0.10-qapt:(kde)
+
+[libs]: gstreamer0.10-alsa:(disabled)
+[libs]: gstreamer0.10-chromaprint
+[libs]: gstreamer0.10-dvswitch
+[libs]: gstreamer0.10-ffmpeg
+[libs]: gstreamer0.10-fluendo-mp3
+[libs]: gstreamer0.10-gnomevfs
+[libs]: gstreamer0.10-hplugins
+[libs]: gstreamer0.10-plugins-bad
+[libs]: gstreamer0.10-plugins-good
+[libs]: gstreamer0.10-plugins-ugly
+[libs]: gstreamer0.10-x:(auto)
+[libs]: gstreamer0.10-plugins-base:(auto)
+[libs]: gstreamer1.0-alsa:(disabled)
+[libs]: gstreamer1.0-clutter
+[libs]: gstreamer1.0-fluendo-mp3
+[libs]: gstreamer1.0-libav:(auto)
+[libs]: gstreamer1.0-packagekit:(kde)
+[libs]: gstreamer1.0-plugins-bad
+[libs]: gstreamer1.0-plugins-base:(auto)
+[libs]: gstreamer1.0-plugins-good:(auto)
+[libs]: gstreamer1.0-plugins-ugly
+[libs]: gstreamer1.0-x:(auto)
+[libs]: gstreamer1.0-vaapi
+
+[net]: gstreamer1.0-nice
+[net]: gstreamer0.10-nice
+
+[sound]: gstreamer0.10-gconf:(auto)
+[sound]: gstreamer0.10-plugins-really-bad:(disabled)
+[sound]: gstreamer0.10-pocketsphinx
+[sound]: gstreamer0.10-pulseaudio
+[sound]: gstreamer1.0-pulseaudio
+
+[utils]: gstreamer-tools
+[utils]: gstreamer0.10-plugins-base-apps:(disabled)
+[utils]: gstreamer0.10-tools:(auto)
+[utils]: gstreamer1.0-plugins-base-apps:(disabled)
+[utils]: gstreamer1.0-tools
+
+[video]: gstreamer1.0-crystalhd

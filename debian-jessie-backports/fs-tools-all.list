@@ -1,0 +1,14 @@
+[admin]: fsarchiver
+[admin]: gpart
+[admin]: parted:(auto) # udisks2:(auto)
+[admin]: syslinux-utils?(syslinux)
+[admin]: testdisk
+
+[gnome]: gparted
+
+[localization]: libparted-i18n?(parted)
+
+[otherosfs]: genisoimage
+
+[utils]: gddrescue
+[utils]: syslinux

@@ -1,0 +1,7 @@
+[otherosfs]: fuse-emulator-common:(auto) # [otherosfs]: fuse-emulator-{gtk,sdl}
+[otherosfs]: fuse-emulator-gtk
+[otherosfs]: fuse-emulator-sdl
+[otherosfs]: fuse-emulator-utils
+
+[otherosfs/non-free]: spectrum-roms?(fuse-emulator-gtk)
+[otherosfs/non-free]: spectrum-roms?(fuse-emulator-sdl)

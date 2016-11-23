@@ -1,0 +1,3 @@
+[net]: linux-igd:(disabled)
+[net]: ntp
+[net]: pppoe

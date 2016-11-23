@@ -1,0 +1,19 @@
+[sound]: amb-plugins
+[sound]: ambdec
+[sound]: autotalent
+[sound]: blepvco
+[sound]: blop:(broken) # conflicting dependencies
+[sound]: bs2b-ladspa
+[sound]: caps
+[sound]: cmt
+[sound]: csladspa
+[sound]: fil-plugins
+[sound]: invada-studio-plugins-ladspa
+[sound]: mcp-plugins
+[sound]: omins
+[sound]: rev-plugins
+[sound]: ste-plugins
+[sound]: swh-plugins
+[sound]: tap-plugins
+[sound]: vco-plugins
+[sound]: wah-plugins

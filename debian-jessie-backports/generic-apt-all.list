@@ -1,0 +1,4 @@
+[admin]: apt-transport-https
+[admin]: software-properties-common
+[admin]: software-properties-kde:(kde)
+[admin]: software-properties-gtk:(xfce)

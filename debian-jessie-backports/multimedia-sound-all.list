@@ -1,0 +1,18 @@
+[sound]: ams:(optional)
+[sound]: amsynth
+[sound]: ardour:(optional)
+[sound]: asunder
+[sound]: audacity
+[sound]: hydrogen:(optional)
+[sound]: lmms
+[sound]: milkytracker
+[sound]: muse:(optional)
+[sound]: opencubicplayer:(optional)
+[sound]: rosegarden:(optional)
+[sound]: schism:(optional)
+[sound]: swami:(optional)
+[sound]: timidity:(optional)
+[sound]: vkeybd:(optional)
+[sound]: xmp
+
+[misc]: multimedia-midi

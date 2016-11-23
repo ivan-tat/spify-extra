@@ -1,0 +1,12 @@
+[sound]: kodi-audioencoder-flac   ?(kodi)
+[sound]: kodi-audioencoder-lame   ?(kodi)
+[sound]: kodi-audioencoder-vorbis ?(kodi)
+[sound]: kodi-audioencoder-wav    ?(kodi)
+
+[video]: kodi
+[video]: kodi-visualization-spectrum  ?(kodi)
+[video]: kodi-visualization-fishbmc   ?(kodi)
+[video]: kodi-visualization-projectm  ?(kodi)
+[video]: kodi-visualization-shadertoy ?(kodi)
+[video]: kodi-visualization-waveform  ?(kodi)
+[video]: kodi-visualization.goom      ?(kodi)

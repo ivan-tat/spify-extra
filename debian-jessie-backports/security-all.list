@@ -1,0 +1,7 @@
+[admin]: apparmor
+[admin]: apparmor-easyprof?(apparmor)
+[admin]: apparmor-notify?(apparmor)
+[admin]: apparmor-profiles?(apparmor)
+[admin]: apparmor-profiles-extra?(apparmor)
+[admin]: apparmor-utils?(apparmor)
+[admin]: rkhunter

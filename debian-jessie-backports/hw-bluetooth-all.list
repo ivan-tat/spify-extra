@@ -1,0 +1,9 @@
+[admin]: bluez        ## base
+[admin]: bluetooth    ## depends on bluez
+[admin]: bluez-cups   ## suggested by bluetooth
+[admin]: bluez-obex   ## suggested by bluetooth
+
+[net]: bluedevil:(kde)
+[net]: bluemon        ## depends on bluez
+
+[x11]: blueman:(xfce) ## gtk+

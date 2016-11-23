@@ -1,0 +1,12 @@
+[admin/non-free]: amd64-microcode:(auto) # suggested by [metapackages/non-free]: firmware-linux[-nonfree]
+[admin/non-free]: intel-microcode:(auto) # suggested by [metapackages/non-free]: firmware-linux[-nonfree]
+
+[kernel]: firmware-linux-free:(auto)     # [metapackages/non-free]: firmware-linux
+
+[kernel/non-free]: firmware-atheros
+[kernel/non-free]: firmware-intel-sound
+[kernel/non-free]: firmware-iwlwifi
+[kernel/non-free]: firmware-linux-nonfree:(auto) # [metapackages/non-free]: firmware-linux
+[kernel/non-free]: firmware-realtek
+
+[metapackages/non-free]: firmware-linux

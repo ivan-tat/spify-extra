@@ -1,0 +1,22 @@
+[admin]: menulibre:(xfce)
+
+[gnome]: gnome-font-viewer:(xfce)
+[gnome]: gnome-logs:(xfce)
+[gnome]: gnome-system-monitor:(xfce)
+
+[math]: galculator:(xfce)
+
+[misc]: desktopnova:(xfce):(auto)      #  [misc]: desktopnova-module-xfce
+[misc]: desktopnova-module-xfce:(xfce)
+[misc]: desktopnova-tray:(xfce):(auto) #  [misc]: desktopnova-module-xfce
+
+[x11]: gtk-theme-switch:(xfce):(disabled)
+
+[xfce]: gtk3-engines-xfce:(xfce)
+[xfce]: xfce4-cellmodem-plugin:(xfce)
+[xfce]: xfce4-indicator-plugin:(xfce)
+[xfce]: xfce4-linelight-plugin:(xfce)
+[xfce]: xfce4-messenger-plugin:(xfce)
+[xfce]: xfce4-radio-plugin:(xfce)
+[xfce]: xfce4-whiskermenu-plugin:(xfce)
+[xfce]: xfwm4-themes:(xfce)

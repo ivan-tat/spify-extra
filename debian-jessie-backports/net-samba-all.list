@@ -1,0 +1,8 @@
+[net]: samba
+[net]: smbnetfs
+[net]: smbclient
+[net]: smbc
+
+[otherosfs]: cifs-utils
+
+[utils]: fusesmb
